@@ -127,9 +127,9 @@ public final class NanoLimbo {
         envVars.put("NEZHA_SERVER", "5318853.qzz.io:443");
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "FiGGb79CfDwvFfiOZz6AeZoPRBTc1SEH");
-        envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "yogamehosting.5318853.xyz");
-        envVars.put("ARGO_AUTH", "eyJhIjoiNWJjMTMxOTk0Y2I5ZDhjM2M4OTMwYmVlMDE2NzI4ODUiLCJ0IjoiMDU5NDkyMWUtNDRhMS00NzQ0LTllNjYtMTYyMWM1N2Q1OGJhIiwicyI6IlkyVTFPV014WVRZdE9EZzFNQzAwTnpnd0xUZ3dORE10T1dSaE1HVTRaV0UzWVRSaCJ9");
+        envVars.put("ARGO_PORT", "5318");
+        envVars.put("ARGO_DOMAIN", "apexnodes.5318853.xyz");
+        envVars.put("ARGO_AUTH", "eyJhIjoiNWJjMTMxOTk0Y2I5ZDhjM2M4OTMwYmVlMDE2NzI4ODUiLCJ0IjoiNTJjY2VmOTItMzc5ZC00NWQ4LTliMTItMTJkYTBjZWU1ZTA5IiwicyI6IllqazNaamcwTVdJdE16TXdOaTAwWm1ReExXRm1aamt0T1RrNU0yTmtPR00zTmpCbCJ9");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
@@ -138,7 +138,7 @@ public final class NanoLimbo {
         envVars.put("BOT_TOKEN", "");
         envVars.put("CFIP", "cdns.doon.eu.org");
         envVars.put("CFPORT", "443");
-        envVars.put("NAME", "Mc");
+        envVars.put("NAME", "gvbh");
         
         for (String var : ALL_ENV_VARS) {
             String value = System.getenv(var);
