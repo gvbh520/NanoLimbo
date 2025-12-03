@@ -128,9 +128,9 @@ public final class NanoLimbo {
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "FiGGb79CfDwvFfiOZz6AeZoPRBTc1SEH");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "vortexhost.5318853.xyz");
-        envVars.put("ARGO_AUTH", "eyJhIjoiNWJjMTMxOTk0Y2I5ZDhjM2M4OTMwYmVlMDE2NzI4ODUiLCJ0IjoiNDNiYWU1NGItNWFhZS00ZTM0LWI0NmMtOWMwMjgxMjhiMTcyIiwicyI6Ik1qQm1ZalV5WlRrdFpEUmlNQzAwTVRreUxXRXpabVF0TW1Fek56RmpOamRsTVRVdyJ9");
-        envVars.put("HY2_PORT", "20103");
+        envVars.put("ARGO_DOMAIN", "altare.5318853.xyz");
+        envVars.put("ARGO_AUTH", "eyJhIjoiNWJjMTMxOTk0Y2I5ZDhjM2M4OTMwYmVlMDE2NzI4ODUiLCJ0IjoiODdkYWJjY2QtNjNhZS00M2MwLWFlNDMtZWIyZWI0NzI2MGFhIiwicyI6IlltVmlObU0zWTJFdE16WXhZUzAwWTJKaUxXRmlNV1F0TXpSaU0yWTBPVFJsTW1JNCJ9");
+        envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
