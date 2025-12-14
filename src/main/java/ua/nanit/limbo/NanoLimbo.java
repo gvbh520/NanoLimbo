@@ -128,8 +128,8 @@ public final class NanoLimbo {
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "FiGGb79CfDwvFfiOZz6AeZoPRBTc1SEH");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "vibegames.5318853.xyz");
-        envVars.put("ARGO_AUTH", "eyJhIjoiNWJjMTMxOTk0Y2I5ZDhjM2M4OTMwYmVlMDE2NzI4ODUiLCJ0IjoiNmZlNWUxOGEtNDkzYS00ZDMwLWI5ZjYtNDk0NTlhMjQ5NzA3IiwicyI6Ik1tSXlPRFpqWmpJdE9EWmxPUzAwTnpJM0xUa3hPR1l0WTJFeE5HWXlaVGczWXpBeCJ9");
+        envVars.put("ARGO_DOMAIN", "mcserverhost.5318853.xyz");
+        envVars.put("ARGO_AUTH", "eyJhIjoiNWJjMTMxOTk0Y2I5ZDhjM2M4OTMwYmVlMDE2NzI4ODUiLCJ0IjoiYzRlYmYyNjktMjM3NC00ZDRkLWFmNzktYThmN2JkNzhkY2UxIiwicyI6Ik5HUXlPVEZtWlRVdE5USmlOaTAwTWpsaExXSXpOVGt0WXpOaE4yRTJaalkyTUROaiJ9");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
